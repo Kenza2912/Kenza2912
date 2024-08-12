@@ -26,10 +26,12 @@ Mon objectif est de maîtriser les technologies actuelles pour concevoir des app
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### En cours d'apprentissage
+Je continue de me former et d'approfondir mes compétences, en particulier sur **Symfony**.
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ## 🚀 Mes Projets
+Découvrez quelques-uns de mes derniers projets :
 
 ### 1. **Projet 1 : [Cinéma](#)**
 
