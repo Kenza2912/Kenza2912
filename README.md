@@ -33,6 +33,8 @@ Mon objectif est de maîtriser les technologies actuelles pour concevoir des app
 
 ### 1. **Projet 1 : [Cinéma](#)**
 
+Ce projet est une application web développée en PHP, destinée à gérer une base de données de films. 
+
 <div align="center">
   <img src="image/CINEMA.gif" alt="Aperçu du Projet Cinéma 1" width="800">
 </div>
