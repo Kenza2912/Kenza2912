@@ -33,7 +33,15 @@ Je continue de me former et d'approfondir mes compétences, en particulier sur *
 ## 🚀 Mes Projets
 Découvrez quelques-uns de mes derniers projets :
 
-### 1. **Projet : [Cinéma](#)**
+### 1. **Projet : [Forum](#)**
+
+Ce projet est une plateforme de discussion développée en PHP, permettant aux utilisateurs de créer et de participer à des discussions catégorisées.
+
+<div align="center">
+  <img src="image/Forum.gif" alt="Aperçu du Projet Forum" width="1000"> 
+</div>
+
+### 2. **Projet : [Cinéma](#)**
 
 Ce projet est une application web développée en PHP, destinée à gérer une base de données de films. 
 
@@ -41,7 +49,7 @@ Ce projet est une application web développée en PHP, destinée à gérer une b
   <img src="image/CINEMA.gif" alt="Aperçu du Projet Cinéma 1" width="800">
 </div>
 
-### 2. **Projet : [Application](#)**
+### 3. **Projet : [Application](#)**
 
 
 Cette application PHP permet à un utilisateur de renseigner différents produits via un formulaire.
