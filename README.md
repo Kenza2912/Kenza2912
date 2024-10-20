@@ -55,7 +55,7 @@ je m'investis pleinement dans l'apprentissage de **Symfony**, afin d'approfondir
 
 Voici un aperçu de quelques projets que j'ai réalisés pendant ma formation :
 
-### 1. **Projet : [Forum](https://github.com/tonprofil/forum-projet)**
+### 1. **Projet : [Forum](https://github.com/Kenza2912/forumPlateau_V2)**
 
 Ce projet est une plateforme de discussion développée en PHP, permettant aux utilisateurs de créer et de participer à des discussions catégorisées.
 
@@ -63,7 +63,7 @@ Ce projet est une plateforme de discussion développée en PHP, permettant aux u
   <img src="image/Forum.gif" alt="Aperçu du Projet Forum" width="1000"> 
 </div>
 
-### 2. **Projet : [Cinéma](#)**
+### 2. **Projet : [Cinéma](https://github.com/Kenza2912/Cinema)**
 
 Ce projet est une application web développée en PHP, destinée à gérer une base de données de films. 
 
@@ -71,7 +71,7 @@ Ce projet est une application web développée en PHP, destinée à gérer une b
   <img src="image/CINEMA.gif" alt="Aperçu du Projet Cinéma 1" width="800">
 </div>
 
-### 3. **Projet : [Application](#)**
+### 3. **Projet : [Application](https://github.com/Kenza2912/premiere-application-web-php)**
 
 
 Cette application PHP permet à un utilisateur de renseigner différents produits via un formulaire.
