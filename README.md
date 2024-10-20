@@ -1,3 +1,5 @@
+<div align="justify">
+  
 # 💻 Kenza | Développeuse Web en Formation
 
 Bienvenue sur mon GitHub ! 
@@ -6,7 +8,10 @@ Ce dépôt est le reflet de mon parcours, de mes compétences techniques et des 
 
 ## 🌟 À propos de moi
 
-Passionnée par le développement web, je m'intéresse particulièrement à la création d'interfaces utilisateurs modernes, fonctionnelles et intuitives. Mon objectif est de maîtriser les technologies du web, pour concevoir des applications performantes, tant sur le front-end que sur le back-end. À travers mes projets, je m'efforce de combiner **performance** et **expérience utilisateur**.
+Passionnée par le développement web, je m'intéresse particulièrement à la création d'interfaces utilisateurs modernes, fonctionnelles et intuitives.
+Mon objectif est de maîtriser les technologies du web, pour concevoir des applications performantes, tant sur le front-end que sur le back-end. À travers mes projets, je mets en avant l'importance d'un bon design et d'une bonne performance.
+
+
 
 ## 🛠️ Compétences Techniques
 
@@ -45,6 +50,8 @@ Passionnée par le développement web, je m'intéresse particulièrement à la c
   </table>
 </div>
 
+
+
 ### En cours d'apprentissage
 
 je m'investis pleinement dans l'apprentissage de **Symfony**, afin d'approfondir mes compétences dans la création d'applications web.
@@ -80,5 +87,5 @@ Cette application PHP permet à un utilisateur de renseigner différents produit
   <img src="image/APPLI.gif" alt="Aperçu du Projet Cinéma 1" width="800">
 </div>
 
-
+</div>
 
